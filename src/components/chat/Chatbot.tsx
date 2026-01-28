@@ -245,9 +245,7 @@ export function Chatbot() {
                   <Send className="w-4 h-4 text-primary-foreground" />
                 </motion.button>
               </div>
-              <p className="text-xs text-muted-foreground mt-2 text-center">
-                Powered by AI • Connect Lovable Cloud for full features
-              </p>
+             
             </form>
           </motion.div>
         )}
